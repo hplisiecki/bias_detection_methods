@@ -15,7 +15,7 @@ All of the metrics come with confidence intervals arrived at through the use of 
    
 ## Practical use
 
-The method was implemented in an R-package to be found here:
+The method was implemented in an R-package to be found here:  
 https://CRAN.R-project.org/package=zcurve
 
 The function embedded in the package takes input of z-statistics or two-sided p-values:  
