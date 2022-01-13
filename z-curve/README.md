@@ -1,4 +1,4 @@
-# Z-curve description
+# Z-curve Manual
 
 The most recent (1/13/2022) version of this technique uses the finite mixture model with the Expectation Maximization algorithm (EM)  
 to estimate the power of the studies in the meta-analytic batch after they were selected for significance in one direction.
