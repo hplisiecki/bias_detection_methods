@@ -21,7 +21,7 @@ https://CRAN.R-project.org/package=zcurve
 The function embedded in the package takes input of z-statistics or two-sided p-values:  
 m.EM <- zcurve(z_scores, method = "EM", bootstrap = FALSE)
 
-The results can be inspected using to additional functions:  
+The results can be inspected using two additional functions:  
 summary(m.EM)  
 plot(m.EM)  
 
