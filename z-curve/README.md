@@ -1,1 +1,1 @@
-dwadaw
+** Z-curve description
