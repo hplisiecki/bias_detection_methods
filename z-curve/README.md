@@ -42,7 +42,9 @@ The information above is based on their article outlining the use of that tool:
 https://replicationindex.com/2020/01/10/z-curve-2-0/
 
 ## References:
-Schimmack, U. (2021, July 14). Z-Curve.2.0. Replicability-Index. Retrieved January 13, 2022, from https://replicationindex.com/2020/01/10/z-curve-2-0/
+Schimmack, U. (2021, July 14). Z-Curve.2.0. Replicability-Index. Retrieved January 13, 2022, from https://replicationindex.com/2020/01/10/z-curve-2-0/  
+
+Schimmack, U., & Brunner, J. (2017). Z-curve.
  
 
   
