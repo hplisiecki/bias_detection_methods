@@ -25,7 +25,7 @@ The results can be inspected using two additional functions:
 summary(m.EM)  
 plot(m.EM)  
 
-## Interpretation and limitation
+## Interpretation and limitations
 
  The discrepancy between the EDR and ODR provides quantitative information about the amount of selection bias.
  
