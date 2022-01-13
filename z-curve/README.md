@@ -29,9 +29,20 @@ plot(m.EM)
 
  The discrepancy between the EDR and ODR provides quantitative information about the amount of selection bias.
  
-"If a meta-analysis shows low selection bias and a high replication rate, the results are credible. If a meta-analysis shows high selection bias and a low replication rate, the results are incredible and require independent verification."
+"If a meta-analysis shows low selection bias and a high replication rate, the results are credible. If a meta-analysis shows high selection bias and a low replication rate, the results are incredible and require independent verification." (Schimmack, 2021)
 
-"One limitation is that it does not distinguish between significant results with opposite signs. In the presence of multiple tests of the same hypothesis with opposite signs, researchers can exclude inconsistent significant results and estimate z-curve on the basis of significant results with the correct sign."
+"One limitation is that it does not distinguish between significant results with opposite signs. In the presence of multiple tests of the same hypothesis with opposite signs, researchers can exclude inconsistent significant results and estimate z-curve on the basis of significant results with the correct sign." (Schimmack, 2021)
+
+"Another limitation is the assumption that all studies used the same alpha criterion (.05) to select for significance. This possibility can be explored by conducting multiple z-curve analyses with different selection criteria (e.g., .05, .01). The use of lower selection criteria is also useful because some questionable research practices produce a cluster of just significant results." (Schimmack, 2021)
+
+## Auhors and sources
+
+The technique was created by František Bartoš and Ulrich Schimmack
+The information above is based on their article outlining the use of that tool:
+https://replicationindex.com/2020/01/10/z-curve-2-0/
+
+## References:
+Schimmack, U. (2021, July 14). Z-Curve.2.0. Replicability-Index. Retrieved January 13, 2022, from https://replicationindex.com/2020/01/10/z-curve-2-0/
  
-"Another limitation is the assumption that all studies used the same alpha criterion (.05) to select for significance. This possibility can be explored by conducting multiple z-curve analyses with different selection criteria (e.g., .05, .01). The use of lower selection criteria is also useful because some questionable research practices produce a cluster of just significant results."
+
   
