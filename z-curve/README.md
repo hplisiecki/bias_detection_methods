@@ -18,12 +18,12 @@ All of the metrics come with confidence intervals arrived at through the use of 
 The method was implemented in an R-package to be found here:
 https://CRAN.R-project.org/package=zcurve
 
-The function embedded in the package takes input of z-statistics or two-sided p-values.
+The function embedded in the package takes input of z-statistics or two-sided p-values.  
 m.EM <- zcurve(z_scores, method = "EM", bootstrap = FALSE)
 
-The results can be inspected using to additional functions
-summary(m.EM)
-plot(m.EM)
+The results can be inspected using to additional functions  
+summary(m.EM)  
+plot(m.EM)  
 
 ## Interpretation and limitation
 
